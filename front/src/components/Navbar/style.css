@@ -1,0 +1,34 @@
+.navbar{
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #FF9D01;
+    padding: 0 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 7rem !important;
+    position: fixed;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Hind Guntur', sans-serif;
+}
+
+.divIcons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.divBag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.divNames{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 14px;
+    font-size: 14px;
+}

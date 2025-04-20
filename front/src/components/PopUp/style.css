@@ -1,0 +1,43 @@
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    background-color: #FFFFFF;
+    border: 2px solid #000;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px 25px 25px 25px;
+    border-radius: 4px;
+}
+
+.container-buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8px;
+}
+.containerBotaoOK{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+    
+
+.title{
+    font-family: 'Hind Guntur', sans-serif;
+    text-align: center;
+    line-height: 34px;
+    font-size: 28px;
+    color: #FF9D01;
+    margin-bottom: 18px;
+}
+
+.logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+}

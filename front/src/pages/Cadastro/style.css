@@ -1,0 +1,45 @@
+.Page{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Hind Guntur', sans-serif;
+}
+
+.ContainerForm{
+    width: 90%;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ContainerTitulo{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 35px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #FFA500;
+}
+
+.Inline {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.ContainerButtonDeletar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+}

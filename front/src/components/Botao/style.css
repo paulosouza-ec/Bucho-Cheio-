@@ -1,0 +1,12 @@
+button {
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    font-family: 'Hind Guntur', sans-serif;
+    height: 46px;
+    text-align: center;
+}
+
+button:hover {
+    transition: 0.25s;
+}

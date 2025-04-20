@@ -1,0 +1,37 @@
+input {
+    width: 100%;
+    font-family: 'Hind Guntur', sans-serif;
+    color: hsl(0, 0%, 9%);
+    padding: 14px;
+    border: none;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input:focus {
+    outline: 0;
+    border: none;
+}
+
+.titulo {
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 18px;
+    color: #FFA500;
+    text-align: start;
+    margin: 0;
+}
+
+::-webkit-input-placeholder {
+    color: #DADADA;
+ }
+ 
+.ContainerInput {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1%;
+}
+
+.ErrorMessage{
+    color: #F90300;
+    margin: 0;
+}
