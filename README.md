@@ -1,4 +1,4 @@
-# Estrutura do projeto a ser utilizado na disciplina de ESS
+# Estrutura do projeto:
 
 ### Dependências
 
@@ -26,3 +26,4 @@ Iniciando o frontend
 cd front
 yarn start
 ```
+Contribuidores: Paulo Sérgio, Lucas Lins, Lucas Fonseca, Danilo Augusto, Welline W. e Gabriela Souza
